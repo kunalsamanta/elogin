@@ -32,7 +32,7 @@ function App() {
         <label>Password</label>
         <input name="password" type="password" placeholder="enter your password"></input>
         <button>Login</button>
-      </form>
+      </form> 
       </Routes>
       
     </div>
